@@ -8,6 +8,14 @@ Examen del 3er trimestre de la asignatura **Entornos de Desarrollo** de DAM (CES
 
 Dado el enunciado anterior, se distinguen los siguientes elementos para el diagrama de clases a desarrollar:
 
+- Biblioteca
+- Libros
+- Tematica
+- Planta
+- Lectores
+- Bibliotecario
+- Prestamo
+
 ## :bulb: Solución propuesta:
 
 ![Captura de Pantalla del diagrama](diagram-screenshot.png "Captura de Pantalla del diagrama")
